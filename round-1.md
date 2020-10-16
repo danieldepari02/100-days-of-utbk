@@ -5,28 +5,28 @@ Each round consists of 100 days. You can do as many rounds as you like.
 
 ### R1D1. Day 1: October 16, 2020
 
-**Mata Pelajaran:** [Text]
+**Mata Pelajaran:** Mat Saintek
 
-**Topik:** [Text]
+**Topik:** Polinom
 
 **Kualitas:** 3/5, biasa saja.
 
 **Catatan:** Hari ini ok.
 
-**Link kerjaan:** [Polynomial R1D1](https://docs.google.com/document/d/1PpnYSWtBe9B4bnxOfZlYr-D37vEt9E2FWgxlTbcKgaQ/edit?usp=sharing)
+**Link kerjaan:** [Polynomial, R1D1](https://docs.google.com/document/d/1PpnYSWtBe9B4bnxOfZlYr-D37vEt9E2FWgxlTbcKgaQ/edit?usp=sharing)
 <hr>
 
 ### R1D2. Day 2: October 17, 2020
 
-**Mata Pelajaran:** [Text]
+**Mata Pelajaran:** Kimia
 
-**Topik:** [Text]
+**Topik:** Titrasi
 
 **Kualitas:** 4/5
 
 **Catatan:** Hari ini ok.
 
-**Link kerjaan:** [Polynomial R1D1](https://docs.google.com/document/d/1PpnYSWtBe9B4bnxOfZlYr-D37vEt9E2FWgxlTbcKgaQ/edit?usp=sharing)
+**Link kerjaan:** [Titrasi, R1D2](https://docs.google.com/document/d/1PpnYSWtBe9B4bnxOfZlYr-D37vEt9E2FWgxlTbcKgaQ/edit?usp=sharing)
 
 
 dst.
